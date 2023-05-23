@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klabianco
-- 👀 I’m interested in web3, photography, music, etc.
+- 👀 I’m interested in AI, web3, photography, music, etc.
 - 🌱 I’m currently learning whatever it takes.
-- 💞️ I’m looking to collaborate on any web3 related projects
+- 💞️ I’m looking to collaborate on any AI/web3 related projects
 - 📫 How to reach me twitter @klabianco
 
 <!---
